@@ -8,7 +8,6 @@ def pow_of_digit(n):
     else:
         total = val
     return total
-        
 
 t = int(input())
 for _ in range(t):
